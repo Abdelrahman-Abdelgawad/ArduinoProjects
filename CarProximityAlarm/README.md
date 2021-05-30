@@ -28,3 +28,7 @@ Participance:
 
 _________________________________________________________________________________
 
+
+Project walkthrough video: 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nvbDpP-5jvY/0.jpg)](https://www.youtube.com/watch?v=nvbDpP-5jvY)
